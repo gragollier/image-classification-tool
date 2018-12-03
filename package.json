@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Grant Gollier",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
